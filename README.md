@@ -1,4 +1,3 @@
 # hameez
-my first website
-(br)
+my first website (br)
 authur - hameez shakir
